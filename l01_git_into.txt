@@ -15,4 +15,6 @@
 
 11. git commit -a(add *의 준말) -m(message) "설명" ==> git add * + git commit -m ""
   동시에 하는거와 같다.
-
+12. git diff 로 파일 상태 비교(스냅샷이 찍힐 내역확인)
+	- 초록색 추가된 내용
+	- 빨간색 삭제될 내용
