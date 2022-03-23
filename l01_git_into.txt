@@ -1,5 +1,5 @@
 1. git 사이트에서 설치
-2. git config --global user.name Kangminhyeok 
+2. git config --global user.name Minhyeok1998
 3. git config --global user.email tom2945000@gmail.com
 4. git으로 관리할 프로젝트 폴더로 이동해서 터미널 열기(or git bash)
 5. git init 명령어로 git 저장소 생성.
@@ -18,3 +18,7 @@
 12. git diff 로 파일 상태 비교(스냅샷이 찍힐 내역확인)
 	- 초록색 추가된 내용
 	- 빨간색 삭제될 내용
+13. github 가입후 레파지토리 생성
+14. 생성한 레포지토리 주소를 등록 git remote add  origin(remote 이름) [레포지토리 주소]
+15. git remote 로 등록된 remote 저장소 확인
+16. git push origin(리모트 저장소 이름) master(branch 이름) => 리모트 저장소에 작업중인 branch의 이력 등록
