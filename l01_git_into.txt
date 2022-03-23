@@ -13,3 +13,6 @@
 	<명령어>
 		git log --oneline --decorate --graph --all
 
+11. git commit -a(add *의 준말) -m(message) "설명" ==> git add * + git commit -m ""
+  동시에 하는거와 같다.
+
