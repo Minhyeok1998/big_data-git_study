@@ -5,3 +5,4 @@
 5. git init 명령어로 git 저장소 생성.
 6. git add * 로 감시할 파일 추가.
 7. git commit으로 저장소에 저장하기(파일 OR 스냅샷)
+8. 하이
