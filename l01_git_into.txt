@@ -3,11 +3,12 @@
 3. git config --global user.email tom2945000@gmail.com
 4. git으로 관리할 프로젝트 폴더로 이동해서 터미널 열기(or git bash)
 5. git init 명령어로 git 저장소 생성.
-6. git add * 로 감시할 파일 추가.
-7. git commit으로 저장소에 저장하기(파일 OR 스냅샷)
-8. git status 로 저장할 수 있는 상태인지 확인하기.
+6. 파일 생성 후 저장
+7. git add * 로 감시할 파일 추가.
+8. git commit으로 저장소에 저장하기(파일 OR 스냅샷)
+9. git status 로 저장할 수 있는 상태인지 확인하기.
 
-9. git log 보기
+10. git log 보기 (커밋 이력 확인하기)
 	- 현재 브랜치가 가리키고 있는 히스토리가 무엇이고 어떻게 갈라져 나왔는지 보여준다.
 	<명령어>
 		git log --oneline --decorate --graph --all
